@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+![tnfaid's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnfaid&show_icons=true&count_private=true&theme=github_dark)
+![tnfaid's github stats](https://github-readme-stats.vercel.app/api?username=tnfaid&show_icons=true&count_private=true&theme=github_dark)
